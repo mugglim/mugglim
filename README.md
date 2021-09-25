@@ -1,5 +1,3 @@
-안녕하세요. 임재욱입니다.👋
-
 ### Contact
 - Email: <applewodnr@naver.com>
 - Blog: https://smoothieking.tistory.com
