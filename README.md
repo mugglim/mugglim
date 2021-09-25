@@ -1,7 +1,8 @@
 안녕하세요. 임재욱입니다.👋
 
 ### Contact
-- Email : applewodnr@naver.com
+- Email: <applewodnr@naver.com>
+- Blog: https://smoothieking.tistory.com
 
 ### Tech
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
