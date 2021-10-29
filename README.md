@@ -12,4 +12,6 @@
 |2021.07.19 - 2021.08.13|부스트캠프 6기 웹 풀스택 챌린지|
 |2021.08.23 - current|부스트캠프 6기 웹 풀스택 멤버십|
 
+
+### ETC
 - Blog: https://smoothieking.tistory.com
