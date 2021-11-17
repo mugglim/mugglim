@@ -3,14 +3,15 @@
 ### Tech
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express"/></a>
-<img src="https://img.shields.io/badge/Node.js-success?style=flat-square&logo=Node.js&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Node.js-2e7d32?style=flat-square&logo=Node.js&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React"/></a>
+<img src="https://img.shields.io/badge/Storybook-ad1457?style=flat-square&logo=Storybook&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=MySQL&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/VSCode-informational?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Slack-ff69b4?style=flat-square&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-560027?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>
 
 
