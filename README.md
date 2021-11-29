@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>
 
 
+### Interested In
+<img src="https://img.shields.io/badge/Design System-ad1457?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/Functional Programming-2e7d32?style=flat-square"/></a>
+
+
 
 ### Connecting the dots
 
