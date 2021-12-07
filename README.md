@@ -24,9 +24,9 @@
 |Type|Date|Content|Organization|
 |:---:|:---:|:---:|:---:|
 |👨‍🎓 Education|2021.08 - 2021.12|Membership of Boostcamp 6th </br> (Full Stack Web Course) |NAVER Connect Foundation|
-|👨‍🎓 Education|2021.07 - 2021.08|Challenge of Boostcamp 6th </br> (Full Stack Web Course) |NAVER Connect Foundation|
-
-### 👀 Channel
-- Blog: https://smoothieking.tistory.com
-
+|👨‍🎓 Education|2021.07 - 2021.08|Challenge of Boostcamp 6th </br> (Full Stack Web Course) |NAVER Connect Foundation|  
+  
+  
+&nbsp;
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugglim&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
