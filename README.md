@@ -1,4 +1,4 @@
-### 👋 Today is gonna be a good day.
+<h2 align="center"> 👋 Today is gonna be a good day. </h2>
 
 ### 🛠 Skills
 
