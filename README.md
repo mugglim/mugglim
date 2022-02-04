@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0077c2&fontColor=fff&height=250&section=header&text=Mugglim&fontSize=60&desc=No Silver Bullet&descSize=30&descAlignY=80&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4527a0&fontColor=ff8f00&height=250&section=header&text=Mugglim&fontSize=60"/>
 
 
 ### 📄 Resume 
