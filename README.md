@@ -1,22 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4527a0&fontColor=ff8f00&height=250&section=header&text=Mugglim&fontSize=60"/>
+<h2 align="center">👋 About me</h2> 
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default&quotesUrl=https://github.com/mugglim/mugglim/blob/main/quote.json">
+</p>
+
+- Hello. I'm Jaeuk Lim. 
+- I'm a junior front end software engineer.
+
+<h2 align="center">Skills</h2> 
+
+- **Front-End** JavaScript(ES6+), React, HTML5, CSS3(SASS), Storybook(for UI testing)
+- **Back-End** Node.js(Express.js), Sequelize, Nginx, MySQL 
+- **Others** Python3, Webpack, ESLint, Prettier, Git & Github, Ncloud 
 
 
-### 📄 Resume 
-[![Resume](https://img.shields.io/badge/Resume-F9F5F1?style=plastic&logo=Notion&logoColor=black)](https://mugglim.notion.site/Jaeuk-Lim-d0ff41da60764769ae973a29c4c19589)
+<h2 align="center">Experience</h2> 
 
-### 🛠 Skills
+- Naver boostcamp web mobile 6th membership. (2021.08 - 2021.12)
+- Naver boostcamp web mobile 6th challenge. (2021.07 - 2021.08)
 
-<img src="https://img.shields.io/badge/Javascript-black?style=plastic&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-blue?style=plastic&logo=TypeScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-blue?style=plastic&logo=React"/></a>
-<img src="https://img.shields.io/badge/Storybook-ad1457?style=plastic&logo=Storybook&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-2e7d32?style=plastic&logo=Node.js&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Express-black?style=plastic&logo=Express"/></a>
-
-### 🚴‍♀️ Connecting the dots
-
-|Type|Date|Content|Organization|
-|:---:|:---:|:---:|:---:|
-|👨‍🎓 Education|2021.08 - 2021.12|Membership of Boostcamp 6th </br> (Full Stack Web Course) |NAVER Connect Foundation|
-|👨‍🎓 Education|2021.07 - 2021.08|Challenge of Boostcamp 6th </br> (Full Stack Web Course) |NAVER Connect Foundation|  
-  
