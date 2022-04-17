@@ -19,3 +19,10 @@
 - Naver boostcamp web mobile 6th membership. (2021.08 - 2021.12)
 - Naver boostcamp web mobile 6th challenge. (2021.07 - 2021.08)
 
+<h2 align="center">Stats</h2>
+
+|                                                                              GitHub                                                                               |                                                 BOJ                                                 |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugglim&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=mugglim)](https://www.acmicpc.net/user/mugglim) |
+
+
