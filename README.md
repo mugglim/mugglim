@@ -5,9 +5,10 @@
 
 <h2 align="left">🛠 Skills</h2> 
 
-- **Front-End** JavaScript(ES6+), React, HTML5, CSS3(SASS), Storybook(for UI testing)
+- **Front-End** JavaScript(ES6+), React, HTML5, CSS3(SCSS), CSS-in-JS(Styled Component) 
 - **Back-End** Node.js(Express.js), Sequelize, Nginx, MySQL 
-- **Others** Webpack, ESLint, Prettier, Git & Github, Ncloud 
+- **Testing** Storybook(UI), jest(unit)
+- **Others** Webpack, ESLint, Prettier, Ncloud 
 
 
 <h2 align="left">🏃‍♂️ Experience</h2> 
