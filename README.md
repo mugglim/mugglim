@@ -13,10 +13,8 @@
 
 <h2 align="left">🏃‍♂️ Experience</h2> 
 
-- **2021.08 - 2021.12**, Naver boostcamp web mobile 6th membership.  
-- **2021.07 - 2021.08**, Naver boostcamp web mobile 6th challenge.
-
-- [Naver boostcamp](https://boostcamp.connect.or.kr/)
+- **2021.08 - 2021.12**, [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th membership.
+- **2021.07 - 2021.08**, [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th challenge.
 
 <h2 align="left">🔥 Stats</h2>
 
