@@ -1,9 +1,11 @@
-<h2 align="left">🙋‍♂️ About me</h2> 
+## Jaeuk Lim @mugglim
 
-- Hello. I'm Jaeuk Lim. 
+<h3 align="left">🙋‍♂️ About Me </h3> 
+
 - I'm a junior front end software engineer.
+- I'm currently learning `Typescript`, `AWS`, `Docker`
 
-<h2 align="left">🛠 Skills</h2> 
+<h3 align="left">🛠 Tech Stacks</h3> 
 
 - **Front-End** JavaScript(ES6+), React, HTML5, CSS3(SCSS), CSS-in-JS(Styled Component) 
 - **Back-End** Node.js(Express.js), Sequelize, Nginx, MySQL 
@@ -11,12 +13,12 @@
 - **Others** Webpack, ESLint, Prettier, Ncloud 
 
 
-<h2 align="left">🏃‍♂️ Experience</h2> 
+<h3 align="left">🏃‍♂️ Experience </h3> 
 
 - **2021.08 - 2021.12**, [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th membership.
 - **2021.07 - 2021.08**, [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th challenge.
 
-<h2 align="left">🔥 Stats</h2>
+<h3 align="left">🔥 Stats </h3>
 
 |                                                                              GitHub                                                                               |                                                 BOJ                                                 |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
