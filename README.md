@@ -3,7 +3,7 @@
 <h3 align="left">🙋‍♂️ About Me </h3> 
 
 - I'm a junior front end software engineer.
-- I'm currently learning Typescript, AWS, Docker
+- I'm currently learning TypeSript, AWS, Docker
 
 <h3 align="left">🛠 Tech Stacks</h3> 
 
