@@ -20,9 +20,13 @@
 
 <h3 align="left">🔥 Stats </h3>
 
-| GitHub | BOJ  | Leetcode |
-| :----: | :--: | :------: |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugglim&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=mugglim)](https://www.acmicpc.net/user/mugglim) | ![Leetcode Stats](https://leetcard.jacoblin.cool/iffy1997?theme=light) |
+| GitHub | BOJ  |
+| :----: | :--: |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugglim&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=mugglim)](https://www.acmicpc.net/user/mugglim) | 
+
+ | Leetcode |
+ | :------: |
+ | ![Leetcode Stats](https://leetcard.jacoblin.cool/iffy1997?theme=light) |
 
 
 
