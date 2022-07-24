@@ -26,7 +26,7 @@
 
  | Leetcode |
  | :------: |
- | ![Leetcode Stats](https://leetcard.jacoblin.cool/iffy1997?theme=light) |
+ | ![Leetcode Stats](https://leetcard.jacoblin.cool/mugglim?theme=light) |
 
 
 
