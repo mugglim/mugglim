@@ -15,6 +15,7 @@
 
 <h3 align="left">🏃‍♂️ Experience </h3> 
 
+- **2022-08 - TBU**, kakao enterprise AIaaS FE intern.
 - **2021.08 - 2021.12**, [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th membership.
 - **2021.07 - 2021.08**, [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th challenge.
 
