@@ -1,4 +1,4 @@
-## Jaeuk Lim @mugglim
+## Jaeuk Lim @mugglim @woogie.lim
 
 <h3 align="left">🙋‍♂️ About Me </h3> 
 
