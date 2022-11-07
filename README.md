@@ -1,25 +1,24 @@
-## Jaeuk Lim @mugglim @woogie.lim
+## Jaeuk Lim (a.k.a mugglim, woogie.lim)
 
-<h3 align="left">🙋‍♂️ About Me </h3> 
+<h4 align="left">About Me </h4> 
 
 - I'm a junior front-end software engineer.
 - I'm currently learning TypeScript, AWS, Docker.
 
-<h3 align="left">🛠 Tech Stacks</h3> 
+<h4 align="left">Tech Stacks</h4> 
 
-- **Front-End** JavaScript(ES6+), React, HTML5, CSS3(SCSS), CSS-in-JS(Styled Component) 
-- **Back-End** Node.js(Express.js), Sequelize, Nginx, MySQL 
-- **Testing** Storybook(UI), jest(unit)
-- **Others** Webpack, ESLint, Prettier, Ncloud 
+- `Front-End` :  TypeScript, JavaScript, React, Redux(RTK, RTK-query), jest, Storybook(♥)
+- `Back-End` : Node.js(Express.js), Sequelize, Nginx, MySQL 
+- `ETC` : Webpack(or Vite), ESLint, Prettier, Ncloud 
 
 
-<h3 align="left">🏃‍♂️ Experience </h3> 
+<h4 align="left">Experience </h4> 
 
-- **2022-08 - TBU**, kakao enterprise AIaaS FE intern.
-- **2021.08 - 2021.12**, [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th membership.
-- **2021.07 - 2021.08**, [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th challenge.
+- `2022-08 -` | kakao enterprise AIaaS FE intern.
+- `2021.08 - 2021.12` | [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th membership.
+- `2021.07 - 2021.08` | [Naver boostcamp](https://boostcamp.connect.or.kr/) web full stack 6th challenge.
 
-<h3 align="left">🔥 Stats </h3>
+<h3 align="left"</h3>
 
 | GitHub | BOJ  |
 | :----: | :--: |
