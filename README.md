@@ -3,7 +3,7 @@
 <h4 align="left">About Me </h4> 
 
 - I'm a junior front-end software engineer.
-- I'm currently learning TypeScript, AWS, Docker.
+- I'm currently learning TypeScript, Web Vitals.
 
 <h4 align="left">Tech Stacks</h4> 
 
