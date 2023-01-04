@@ -14,7 +14,7 @@
 
 |      Period       |                 Organization                 |                                  Position                                   |
 | :---------------: | :------------------------------------------: | :-------------------------------------------------------------------------: |
-| 2021.07 - 2021.12 | [Naver Connect Corp](https://connect.or.kr/) | [Boostcamp](https://boostcamp.connect.or.kr/) camper(for education purpose) |
+| 2021.07 - 2021.12 | [Naver Connect Corp](https://connect.or.kr/) | [Boostcamp](https://boostcamp.connect.or.kr/) 6th web track camper(for education purpose) |
 
 <h3>ETC<h3>
 
