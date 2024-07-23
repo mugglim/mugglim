@@ -2,5 +2,5 @@
 
 ### About me
 
-- I'm currently working as Front end software engineer @kakaopaysec
-- [Blog](https://mugglim.tistory.com) ⎸ [Linkedin](https://www.linkedin.com/in/jaeuk-lim-2a449020a/)
+- Frontend Engineer at Kakaopay Securities with 2+ years
+- [Linkedin](https://www.linkedin.com/in/jaeuk-lim-2a449020a/)
